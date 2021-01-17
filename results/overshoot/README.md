@@ -1,0 +1,1 @@
+The P controller used for best result is 8, and the I controller is 1. The integration error is defined as the accumualted error twist (Xerr) so far during the process of generating end-effector twist along the trajectory. The result converges to desired trajectory essentially, but the time it takes is longer than the best result.
