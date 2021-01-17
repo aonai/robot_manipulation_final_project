@@ -1,0 +1,1 @@
+The P controller used for best result is 20, and the I controller is 1. The integration error is defined as the accumualted error twist (Xerr) so far during the process of generating end-effector twist along the trajectory. The combination of these let the robot converges very fast to the desired trajectory. 
